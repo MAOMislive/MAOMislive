@@ -3,12 +3,13 @@ I'm a 2nd level Computer Science Engineering student with a passion for product 
 
 # 📚 Skills
 I have experience using a range of design tools, including:
-* Blender
+* Figma
 * Photoshop
 * Illustrator
+* Blender
 * Photopea
-* Figma
-* Canva
+* Canva  
+  
 I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint.
 
 # 💼 Experience
