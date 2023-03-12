@@ -24,5 +24,3 @@ I'm always happy to chat about design, programming, or anything else! You can re
 
 # 😄 Fun Fact
 I'm a weirdo who spends most of his time either day-dreaming or designing!
-
-Feel free to use this template and modify it to fit your own style and preferences. Good luck with your GitHub profile!
