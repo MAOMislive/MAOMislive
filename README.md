@@ -11,6 +11,8 @@ I have experience using a range of design tools, including:
 * Blender
 * Photopea
 * Canva  
+    
+I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint.
 
 <h2 style: "display:block;">Languages:</h2> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -20,8 +22,6 @@ I have experience using a range of design tools, including:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
   
-    
-I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint.
 
 # 💼 Experience
 I've worked as a Presentation Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
