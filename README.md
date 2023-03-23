@@ -1,6 +1,8 @@
 # Hi there, I'm Mohammad Abu Obaida Mullick! 👋
 I'm a 2nd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
+
 # 📚 Skills & Languages
 I have experience using a range of design tools, including:
 * Figma
@@ -38,3 +40,6 @@ I'm a weirdo who spends most of his time either day-dreaming or designing!
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maomislive&show_icons=true&locale=en" alt="maomislive" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" /></p>
+
+# Github Tropies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomislive" alt="anisurrahmanlikhon" /></a> </p>
