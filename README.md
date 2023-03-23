@@ -41,5 +41,5 @@ I'm a weirdo who spends most of his time either day-dreaming or designing!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maomislive&show_icons=true&locale=en" alt="maomislive" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" /></p>
 
-# Github Tropies
+# 🏆Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomislive" alt="anisurrahmanlikhon" /></a> </p>
