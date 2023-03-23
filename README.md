@@ -1,7 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
 
-# Hi there, I'm Mohammad Abu Obaida Mullick! 👋
-I'm a 2nd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
+# Hi there👋
+
+* 👂 My name is Mohammad Abu Obaida Mullick
+* 👩 Pronouns: He/Him
+* 🔭 I’m currently working on my design skills.
+* 🌱 I’m currently learning learning new programming languages, technologies and user experience (UX), user interface (UI) design.
+* 💬 Ask me about Design, Coding, etc.
+* 📫 How to reach me: abu.obaida168@gmail.com
+* ⚡ Fun fact: I'm a weirdo who spends most of his time either day-dreaming or designing!
+  
+# :speech_balloon: About Me
+I'm a 2nd level Computer Science Engineering student with a passion for product design.I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
 
 # 📚 Skills & Languages
 I have experience using a range of design tools, including:
@@ -24,17 +34,6 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
   
 # 💼 Experience
 I've worked as a Presentation Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
-
-# 🌱 What I'm Learning
-As a student, I'm constantly learning new programming languages and technologies. I'm currently focusing on HTML, CSS, JavaScript, C, C++, and Java.
-
-I'm also interested in expanding my design skills, and I'm currently learning more about user experience (UX) and user interface (UI) design.
-
-# 💬 Contact Me
-I'm always happy to chat about design, programming, or anything else! You can reach me through abu.obaida168@gmail.com.
-
-# 😄 Fun Fact
-I'm a weirdo who spends most of his time either day-dreaming or designing!
 
 # 📈 Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" style="display: block; margin: 0 auto;"/></p>
