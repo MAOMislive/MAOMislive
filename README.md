@@ -37,9 +37,9 @@ I'm always happy to chat about design, programming, or anything else! You can re
 I'm a weirdo who spends most of his time either day-dreaming or designing!
 
 # 📈 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" style="display: block; margin: 0 auto;"/>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maomislive&show_icons=true&locale=en" alt="maomislive" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" style="display: block; margin: 0 auto;"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maomislive&show_icons=true&locale=en" alt="maomislive" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" /></p>
 
 # 🏆Github Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomislive" alt="maomislive" /></a> </p>
