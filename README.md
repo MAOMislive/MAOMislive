@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
+
 # Hi there, I'm Mohammad Abu Obaida Mullick! 👋
 I'm a 2nd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
 
 # 📚 Skills & Languages
 I have experience using a range of design tools, including:
