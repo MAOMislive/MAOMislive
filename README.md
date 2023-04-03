@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
 
-# Hi there👋
-
-* 👂 My name is Mohammad Abu Obaida Mullick
+<div align="center"><h1> Hi there, <br>I am Mohammad Abu Obaida Mullick👋 </h1></div>
+ 
+   
 * 👩 Pronouns: He/Him
-* 🔭 I’m currently working on User Experience(UX) & User Interface(UI) design.
+* 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
 * 🌱 I’m currently learning new programming languages & technologies.
 * 💬 Ask me about Design, Coding, etc.
 * 📫 How to reach me: abu.obaida168@gmail.com
