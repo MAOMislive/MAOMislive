@@ -8,7 +8,7 @@
 * 🌱 I’m currently learning new programming languages & technologies.
 * 💬 Ask me about Design, Coding, etc.
 * 📫 How to reach me: abu.obaida168@gmail.com
-* ⚡ Fun fact: I'm a weirdo who spends most of his time either day-dreaming or designing!
+* ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or day-dreaming!
   
 # :speech_balloon: About Me
 I'm a 2nd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
