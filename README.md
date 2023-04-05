@@ -2,8 +2,8 @@
 
 <div align="center"><h1> Hi there, <br>I am Mohammad Abu Obaida Mullick👋 </h1></div>
  
-   
-* 👩 Pronouns: He/Him
+
+
 * 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
 * 🌱 I’m currently learning new programming languages & technologies.
 * 💬 Ask me about Design, Coding, etc.
