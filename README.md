@@ -5,7 +5,7 @@
 
 
 * 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
-* 🌱 I’m currently learning new programming languages & technologies.
+* 🌱 I’m currently learning PHP, Vanilla Javascript, etc.
 * 💬 Ask me about Design, Coding, etc.
 * 📫 How to reach me: abu.obaida168@gmail.com
 * ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or day-dreaming!
