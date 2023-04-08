@@ -36,7 +36,7 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
 # 💼 Experience
 I've worked as a Presentation Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
 
-# 📈 Github Stats
+# 📈 Github Profile Stats
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" style="display: block; margin: 0 auto;"/></p>
@@ -44,7 +44,7 @@ I've worked as a Presentation Designer on Upwork and Freelancer, where I've help
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" /></p>
 </div>
 
-# 🏆Github Trophies
+# 🏆Github Profile Trophies
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomislive&margin-w=20" alt="maomislive" /></a> </p>
 </div>
