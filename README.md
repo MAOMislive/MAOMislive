@@ -40,8 +40,11 @@ I've worked as a Presentation Designer on Upwork and Freelancer, where I've help
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maomislive&show_icons=true&locale=en&layout=compact" alt="maomislive" style="display: block; margin: 0 auto;"/></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maomislive&theme=default" alt="maomislive" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maomislive&show_icons=true&locale=en" alt="maomislive" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maomislive&" alt="maomislive" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maomislive&theme=default" alt="maomislive" /></p>
+
 </div>
 
 # 🏆Github Profile Trophies
