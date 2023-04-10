@@ -4,7 +4,7 @@
  
 
 * 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
-* 💻 I’m currently rendering 3d project on Blender
+* 💻 I’m currently rendering 3d stuff on Blender.
 * 🌱 I’m currently learning Javascript.
 * 💬 Ask me about Design, Coding, etc.
 * 📫 How to reach me: abu.obaida168@gmail.com
