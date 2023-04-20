@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
 
-<div align="center"><h1 style = "background-color: #151515;"> Hi there, <br>I am Mohammad Abu Obaida Mullick‍ 🏁</h1></div>
+<div align="center"><h1 style = "background-color: #151515;"> Hi there, <br>I am Mohammad Abu Obaida Mullick‍ 🧑‍💻</h1></div>
  
 
 * 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
