@@ -22,7 +22,7 @@ I have experience using a range of design tools, including:
 * Photopea
 * Canva  
     
-I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint.
+I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint and Google office suite including google Docs, slides and sheets etc.
 
 <h2 style: "display:block;">Languages:</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
