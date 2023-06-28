@@ -49,6 +49,6 @@ I've worked as a Presentation Designer on Upwork and Freelancer, where I've help
 </div>
 
 # 🏆Github Profile Trophies
-<div align="center">
+<div align="center" style="width: 60%">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maomislive&margin-w=10" alt="maomislive" /></a> </p>
 </div>
