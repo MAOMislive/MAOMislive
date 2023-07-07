@@ -5,13 +5,13 @@
 
 * 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
 * 💻 I’m currently rendering 3d stuff on Blender.
-* 🌱 I’m currently learning PHP, Javascript, Blockchain technology.
+* 🌱 I’m currently learning PHP, Javascript, and Blockchain technology.
 * 💬 Ask me about Design, Coding, etc.
 * 📫 How to reach me: abu.obaida168@gmail.com
 * ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or day-dreaming!
   
 # :speech_balloon: About Me
-I'm a 2nd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
+I'm a 3rd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
 
 # 📚 Skills & Languages
 I have experience using a range of design tools, including:
@@ -22,7 +22,7 @@ I have experience using a range of design tools, including:
 * Photopea
 * Canva  
     
-I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint and Google office suite including Google Docs, Slides and Sheets etc.
+I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoint, and Google Office suite including Google Docs, Slides and Sheets, etc.
 
 <h2 style: "display:block;">Languages:</h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
