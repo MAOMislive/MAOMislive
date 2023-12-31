@@ -1,14 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maomislive&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
 
-<div align="center"><h1 style = "background-color: #151515;"> Hi there, <br>I am Mohammad Abu Obaida Mullick‍ 🧑‍💻</h1></div>
- 
+<div align="center"><h1> Hi there,<br>I am Mohammad Abu Obaida Mullick</h1></div>
 
-* 🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.
-* 💻 I’m currently rendering 3d stuff on Blender.
-* 🌱 I’m currently learning PHP, Javascript, and Blockchain technology.
-* 💬 Ask me about Design, Coding, etc.
-* 📫 How to reach me: abu.obaida168@gmail.com
-* ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!
+
+  🔭 I’m currently exploring the User Experience(UX) & User Interface(UI) world.  
+  💻 I’m currently rendering 3d stuff on Blender.  
+  🌱 I’m currently learning PHP, Javascript, and Blockchain technology.  
+  💬 Ask me about Design, Coding, etc.  
+  📫 How to reach me: abu.obaida168@gmail.com  
+  ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!  
   
 # :speech_balloon: About Me
 I'm a 3rd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
