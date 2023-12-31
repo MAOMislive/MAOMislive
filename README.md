@@ -38,8 +38,8 @@ I'm also proficient in the MS Office suite, including Word, Excel, and PowerPoin
 I've worked as a Presentation Designer on Upwork and Freelancer, where I've helped clients create visually stunning presentations that effectively communicate their ideas.
 
 # 🎖️ Awards
-* Champion in SAD Project Competition @ UIU CSE Project Show Fall 2023
-* Champion in AOOP Project Competition @ UIU CSE Project Show Summer 2022
+* Champion in System Analysis & Design Project Competition @ UIU CSE Project Show Fall 2023
+* Champion in Advanced Object-Oriented Programming Project Competition @ UIU CSE Project Show Summer 2022
 * 1st Runner Up in Graphics Design Competition @ UIU CSE WEEK 2023
 
 # 📈 GitHub Profile Stats
