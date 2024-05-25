@@ -11,7 +11,7 @@
   ⚡ Fun fact: I'm a weirdo who spends most of his time either designing or daydreaming!  
   
 # :speech_balloon: About Me
-I'm a 3rd level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
+I'm a 4th level Computer Science Engineering student with a passion for product design. I am a self-taught product designer and constantly learning new skills to create beautiful and functional designs.
 
 # 📚 Skills & Languages
 I have experience using a range of design tools, including:
